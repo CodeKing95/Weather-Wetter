@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://api.weatherapi.com/v1";
+const API_BASE_URL =  "http://api.weatherapi.com/v1";
 const API_KEY = "505082cbb0ed453482d163906240212";
 const FAVORITE_CITIES_KEY = "favorite-cities";
 
